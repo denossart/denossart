@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello GitHub community
+
+My name is Denossart and I am a software developer
 
 <!--
 **denossart/denossart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
